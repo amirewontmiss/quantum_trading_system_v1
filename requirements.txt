@@ -1,0 +1,7 @@
+tensorflow==2.14.0
+pennylane==0.27.0
+stable-baselines3==1.7.0
+optuna==3.0.0
+binance==5.1.0
+alpaca-trade-api==2.2.0
+scikit-learn==1.3.0
